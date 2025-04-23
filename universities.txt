@@ -1,0 +1,6 @@
+University A|Faculty of Engineering|Computer Science
+University A|Faculty of Engineering|Electronics
+University B|Faculty of Arts|Philosophy
+University B|Faculty of Arts|History
+University C|Faculty of Business|Marketing
+

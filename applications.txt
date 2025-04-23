@@ -1,0 +1,2 @@
+Stefan|Ivan|19|Grigore Moisil|10.00|UVT|FMI|IE
+John|Snow|20|Loga|9.00|UVT|FMI|IE
