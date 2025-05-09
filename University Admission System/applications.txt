@@ -1,0 +1,6 @@
+Stefan|Ivan|19|Grigore Moisil|10.00|UVT|FMI|IE
+John|Snow|20|Loga|9.00|UVT|FMI|IE
+Mihai|John|25|Loga|9.00|Poli|AC|Romana
+Tudor|kiki|45|Colegiul Banatean|7.00|A|Arts|History
+Cristi|Micul|31|Ana Slan|5.50|UVT|FMI|AI
+Mihai|koko|19|Loga|5.00|UVT|FMI|IE

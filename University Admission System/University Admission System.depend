@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746794136 source:c:\proiecte informatica c++\university admission system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
